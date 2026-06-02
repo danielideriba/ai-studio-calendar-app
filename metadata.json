@@ -1,0 +1,6 @@
+{
+  "name": "Daily Calendar",
+  "description": "A beautiful, premium daily calendar monitor using Google Calendar API, featuring touch-optimized agenda details, local caching, and elegant visual timelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
